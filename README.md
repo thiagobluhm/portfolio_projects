@@ -1,4 +1,4 @@
-<h1>Bem-vindo ao Repositório XYZ</h1>
+<h1>Bem-vindo ao Repositório de Scripts</h1>
     <p>Este repositório contém uma coleção de scripts em Python destinados a analistas e estagiários que desejam aprender e explorar diversas áreas da ciência de dados e automação. Os scripts abrangem uma variedade de tópicos, incluindo manipulação de dados, automação de processos robóticos (RPA), raspagem de dados (scraping) e técnicas de machine learning e deep learning.</p>
 
 <h2>Conteúdo</h2>
